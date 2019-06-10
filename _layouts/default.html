@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} {% endif %}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="nav-container">
+      <nav class="top-nav">
+        <!-- Site Avatar if wanted... -->
+        <!-- <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a> -->
+        <a class="title-link" href="/"><h1 class="title">Sea of Book</h1></a>
+        <a class="nav-link" href="/">Latest</a>
+        <a class="nav-link" href="/about">About</a>
+      </nav>
+      <div class="progress-container">
+        <div class="progress-bar" id="progress-bar"></div>
+      </div>
+    </div>
+
+    <script> /*
+      var MAX_LENGTH = 10;
+      var url = window.location.href.split('/');
+      var page = url[3];
+      console.log(page.length);
+      if (page.length == 0) {
+        page = "blog";
+      }
+      document.getElementById(page).setAttribute("style", "color: #42f7c7;");
+      document.getElementById("nav-" + page).setAttribute("style", "border: #42f7c7 solid 1px; filter: invert(100%);");
+      */
+      // When the user scrolls the page, execute myFunction
+      window.onscroll = function() {myFunction()};
+
+      function myFunction() {
+        var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        var scrolled = (winScroll / height) * 100;
+        document.getElementById("progress-bar").style.width = scrolled + "%";
+      }
+    </script>
+
+
+    <div class="body-container">
+      <div class="content-container">
+        {{ content }}
+      </div>
+
+      <div class="side-nav">
+        <div class="section-container">
+          <h2 class="section-header">Social Media</h2>
+          <div class="social-media-container">{% include svg-icons.html %}</div>
+        </div>
+        <div class="section-container">
+          <h2 class="section-header">Categories</h2>
+          <div class="link-container">
+            <a href="#">Sci-Fi</a>
+            <a href="#">Fantasy</a>
+            <a href="#">Romance</a>
+          </div>
+        </div>
+        <div class="section-container">
+          <h2 class="section-header">Ongoing Pieces</h2>
+          <div class="link-container">
+            <a href="#">The Unintentional Calamity</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>

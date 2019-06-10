@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1 class="page-header">{{ page.title }}</h1>
+
+<article class="post-preview">
+
+  <h2 class="title"><a>Written on {{ page.date | date: "%B %e, %Y" }}</a></h2>
+
+  <div class="horizontal-body">
+    {{ content }}
+  </div>
+
+  {% include disqus.html %}
+</article>

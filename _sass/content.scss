@@ -1,0 +1,166 @@
+body {
+  background: linear-gradient(#27956a, #22835d);
+  font-family: Helvetica, Arial, sans-serif;
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  background-attachment: fixed;
+}
+
+.body-container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  max-width: 990px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  .content-container {
+    align-self: center;
+    background-color: #50b189;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    flex: 2;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 640px;
+    min-width: 300px;
+    padding: 10px;
+
+    .page-header {
+      border-bottom: solid 4px #16533a;
+      font-family: 'Chelsea Market', cursive;
+      margin: 5px;
+    }
+
+    .post-preview {
+      background-color: #fff;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+      margin-bottom: 10px;
+      margin-top: 10px;
+      padding: 10px;
+
+      .read-more {
+        text-align: right;
+        margin: 5px;
+        margin-bottom: 10px;
+
+        a {
+          background-color: #efc4db;
+          border-radius: 5px;
+          color: #207251;
+          font-weight: bold;
+          padding: 10px 20px 10px 20px;
+          text-decoration: none;
+          transition: 0.2s;
+        }
+
+        a:hover {
+          color: #50b189;
+          transition: 0.2s;
+        }
+      }
+
+      .title {
+        margin: 0px;
+        margin-top: -10px;
+        margin-left: -10px;
+        margin-right: -10px;
+
+        a {
+          background-color: #efc4db;
+          color: black;
+          display: block;
+          padding: 8px;
+          text-decoration: none;
+          transition: 0.2s;
+        }
+
+        a:hover {
+          color: #207251;
+          transition: 0.2s;
+        }
+      }
+    }
+  }
+
+  .side-nav {
+    align-self: stretch;
+    background-color: #50b189;
+    border-radius: 2px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    flex: 1;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    min-width: 150px;
+    padding: 10px;
+    vertical-align: top;
+
+    .section-container {
+      box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+      margin-top: 10px;
+      margin-bottom: 10px;
+      padding: 5px;
+
+      .section-header {
+        background-color: #99d0b7;
+        display: block;
+        font-family: 'Chelsea Market', cursive;
+        margin: 0px;
+        margin-bottom: 5px;
+        margin-left: -5px;
+        margin-right: -5px;
+        margin-top: -5px;
+        padding: 2px;
+        text-align: center;
+      }
+
+      .social-media-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+        i {
+          margin-left: 10px;
+          margin-right: 10px;
+        }
+      }
+
+      .link-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+        a {
+          background-color: #70be9c;
+          border-radius: 5px;
+          color: #394c7e;
+          display: block;
+          font-size: 1.4em;
+          font-weight: bold;
+          margin: 5px;
+          margin-left: 10px;
+          margin-right: 10px;
+          padding: 5px;
+          padding-left: 10px;
+          padding-right: 10px;
+          text-decoration: none;
+          text-align: center;
+          transition: 0.2s;
+        }
+
+        a:hover {
+          color: #5078b1;
+          transition: 0.2s;
+        }
+      }
+    }
+
+  }
+}

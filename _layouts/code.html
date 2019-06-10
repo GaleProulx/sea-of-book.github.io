@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<article class="large-card">
+  <a href="{{ page.code-link }}" class="title-link" target="_blank">
+    <div class="title">{{ page.title }}</div>
+  </a>
+  <div class="body">
+    {{ content }}
+  </div>
+
+  {% include disqus.html %}
+</article>
