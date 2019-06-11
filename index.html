@@ -5,16 +5,19 @@ layout: default
 <h1 class="page-header">Latest Posts</h1>
 
 {% for post in site.posts %}
-  {% if post.categories contains 'blog' %}
-    <article class="post-preview">
+  <article class="post-preview">
 
-      <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      <div class="horizontal-body">
-        {{ post.excerpt }}
+    <div class="horizontal-body">
+      {{ post.excerpt }}
+    </div>
+
+    <div class="post-footer">
+      <div class="category-container">
+        <div class="category">{{ post.category1 }}</div>
+        <div class="category">{{ post.category2 }}</div>
       </div>
-
-      <div class="read-more"><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a></div>
-    </article>
-  {% endif %}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </div>  </article>
 {% endfor %}

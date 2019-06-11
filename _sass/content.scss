@@ -9,7 +9,7 @@ body {
 
 .body-container {
   display: flex;
-  flex-wrap: wrap-reverse;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 40px;
   margin-left: auto;
@@ -45,14 +45,34 @@ body {
       margin-top: 10px;
       padding: 10px;
 
-      .read-more {
-        text-align: right;
-        margin: 5px;
-        margin-bottom: 10px;
+      .post-footer {
+        display: flex;
+        justify-content: space-between;
 
-        a {
-          background-color: #efc4db;
+        .category-container {
+          display: flex;
+          justify-content: flex-start;
+        }
+
+        .category {
+          background-color: #b9eaeb;
           border-radius: 5px;
+          color: #207251;
+          font-weight: bold;
+          margin: 5px;
+          margin-bottom: 10px;
+          padding: 10px 20px 10px 20px;
+          text-align: center;
+          transition: 0.2s;
+          vertical-align: text-bottom;
+        }
+
+        .read-more {
+          margin: 5px;
+          margin-bottom: 10px;
+          margin-right: -10px;
+          background-color: #efc4db;
+          border-radius: 5px 0px 0px 5px;
           color: #207251;
           font-weight: bold;
           padding: 10px 20px 10px 20px;
@@ -60,10 +80,21 @@ body {
           transition: 0.2s;
         }
 
-        a:hover {
+        .read-more:hover {
           color: #50b189;
           transition: 0.2s;
         }
+      }
+
+
+      h1 {
+        border-left: 5px solid #efc4db;
+        padding-left: 5px;
+      }
+
+      h2 {
+        border-left: 5px solid #efc4db;
+        padding-left: 5px;
       }
 
       .title {
@@ -71,6 +102,7 @@ body {
         margin-top: -10px;
         margin-left: -10px;
         margin-right: -10px;
+        padding-left: 0px;
 
         a {
           background-color: #efc4db;
@@ -85,6 +117,31 @@ body {
           color: #207251;
           transition: 0.2s;
         }
+      }
+
+      .subtitle {
+        background-color: #efc4db;
+        color: black;
+        display: block;
+        padding: 3px;
+        padding-left: 15px;
+        margin: 0px;
+        margin-top: 0px;
+        margin-left: -10px;
+        margin-right: -10px;
+        text-decoration: none;
+        transition: 0.2s;
+      }
+
+      .category {
+        background-color: #f8e8f0;
+        border-radius: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+      }
+
+      .category:empty {
+        display: none;
       }
     }
   }

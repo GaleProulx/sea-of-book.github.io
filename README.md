@@ -1,6 +1,8 @@
 # Credits
 ---
 
+Huge help in graphic design by Ian Dupont.
+
 Material Design Palette Generator by kuali.
 https://materialpalettes.com/
 

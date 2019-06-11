@@ -6,7 +6,11 @@ layout: default
 
 <article class="post-preview">
 
-  <h2 class="title"><a>Written on {{ page.date | date: "%B %e, %Y" }}</a></h2>
+  <h2 class="title"><a>Written on {{ page.date | date: "%B %e, %Y" }} by {{ page.author }}</a></h2>
+  <h3 class="subtitle">Category:
+    <span class="category">{{ page.category1 }}</span>
+    <span class="category">{{ page.category2 }}</span>
+  </h3>
 
   <div class="horizontal-body">
     {{ content }}
