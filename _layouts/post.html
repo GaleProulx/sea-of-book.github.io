@@ -8,8 +8,9 @@ layout: default
 
   <h2 class="title"><a>Written on {{ page.date | date: "%B %e, %Y" }} by {{ page.author }}</a></h2>
   <h3 class="subtitle">Category:
-    <span class="category">{{ page.category1 }}</span>
-    <span class="category">{{ page.category2 }}</span>
+    {% for category in page.categories %}
+      <span class="category">{{ category }}</span>
+    {% endfor %}
   </h3>
 
   <div class="horizontal-body">

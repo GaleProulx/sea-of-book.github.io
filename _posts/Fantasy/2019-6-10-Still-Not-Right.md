@@ -3,7 +3,7 @@ layout: post
 title: Still Not Right
 author: Gale Proulx
 published: true
-category1: Fantasy
+categories: Fantasy
 ---
 Crying can be heard from the conference room and I’m sitting in my desk which is right next to the conference room. I hate crying. I hate knowing that my friend and roommate Jessy is the one crying. I hate even more that I have to work like nothing is wrong. This sucks.
 

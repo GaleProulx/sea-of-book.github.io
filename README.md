@@ -16,3 +16,9 @@ Social Media Icons by Vecteezy
 https://www.vecteezy.com/
 
 W3 Schools helped with various CSS questions.
+
+Category organization help from Sharath (WebJeda blog)
+https://blog.webjeda.com/jekyll-categories/
+
+Search bar provided by Sharath (WebJeda)
+https://blog.webjeda.com/instant-jekyll-search/

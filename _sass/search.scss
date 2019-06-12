@@ -1,0 +1,48 @@
+.search-container {
+  background-color: #99d0b7;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  display: block;
+  font-family: 'Chelsea Market', cursive;
+  margin: 0px;
+  padding: 5px;
+  text-align: center;
+
+  input {
+    background-color: rgba(0,0,0,0);
+    border: none;
+    border-bottom: 5px solid #5a8ac3;
+    border-radius: 2px;
+    font-family: 'Chelsea Market', cursive;
+    font-size: 1.2em;
+    padding: 5px;
+    width: calc(100% - 10px);
+  }
+
+  input:focus {
+    background-color: #c1e2d3;
+    outline: none;
+  }
+
+  ul {
+    padding-left: 0px;
+    list-style-type: none;
+
+    li {
+      background-color: #c1e2d3;
+
+      a {
+        color: #394c7e;
+        display: block;
+        font-size: 1.5em;
+        margin: 5px;
+        text-decoration: none;
+        transition: 0.2s;
+      }
+
+      a:hover {
+        color: #5078b1;
+        transition: 0.2s;
+      }
+    }
+  }
+}

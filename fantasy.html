@@ -1,11 +1,12 @@
 ---
 layout: default
+title: Seo of Book Fantasy
 ---
 
 <h1 class="page-header">Fantasy Stories</h1>
 
 {% for post in site.posts %}
-  {% if post.category1 contains 'Fantasy' or post.category2 contains 'Fantasy' %}
+  {% if post.categories contains 'Fantasy' %}
     <article class="post-preview">
 
       <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -16,8 +17,9 @@ layout: default
 
       <div class="post-footer">
         <div class="category-container">
-          <div class="category">{{ post.category1 }}</div>
-          <div class="category">{{ post.category2 }}</div>
+          {% for category in post.categories %}
+            <div class="category">{{ category }}</div>
+          {% endfor %}
         </div>
         <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       </div>

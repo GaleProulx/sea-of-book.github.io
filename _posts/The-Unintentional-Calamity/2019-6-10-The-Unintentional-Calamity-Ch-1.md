@@ -3,8 +3,7 @@ layout: post
 title: The Unintentional Calamity - Chapter 1
 author: Gale Proulx
 published: true
-category1: Sci-Fi
-category2: The Unintentional Calamity
+categories: [Sci-Fi, The Unintentional Calamity]
 ---
 Chelsen looked back over his shoulder with a huge grin. Most of the townsfolk were conversing over a hot meal and the warm glow from the bon fire. Everyone would be going home soon, except Chelsen. His father, Mith, was already making his way back to their house stumbling with eyes half open. Mith payed no attention to his son who was walking straight to the forest, rather than their home.
 

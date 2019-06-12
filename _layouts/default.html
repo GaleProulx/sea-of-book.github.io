@@ -21,7 +21,7 @@
         <!-- Site Avatar if wanted... -->
         <!-- <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a> -->
         <a class="title-link" href="/"><h1 class="title">Sea of Book</h1></a>
-        <a class="nav-link" href="/">Latest</a>
+        <a class="nav-link" href="/library">Library</a>
         <a class="nav-link" href="/about">About</a>
       </nav>
       <div class="progress-container">
@@ -59,8 +59,7 @@
 
       <div class="side-nav">
         <div class="section-container">
-          <h2 class="section-header">Social Media</h2>
-          <div class="social-media-container">{% include svg-icons.html %}</div>
+          <h2 class="section-button"><a class="nav-link" href="/search">Search <img src="/svg-icons/search.svg" alt="Search Icon"></img></a></h2>
         </div>
         <div class="section-container">
           <h2 class="section-header">Categories</h2>
@@ -72,8 +71,12 @@
         <div class="section-container">
           <h2 class="section-header">Ongoing Pieces</h2>
           <div class="link-container">
-            <a href="/the-unintentional-calamity">The Unintentional Calamity</a>
+            <a href="/the unintentional calamity">The Unintentional Calamity</a>
           </div>
+        </div>
+        <div class="section-container">
+          <h2 class="section-header">Social Media</h2>
+          <div class="social-media-container">{% include svg-icons.html %}</div>
         </div>
 
       </div>

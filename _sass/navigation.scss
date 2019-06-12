@@ -1,5 +1,3 @@
-@import '_variables';
-
 @font-face {
   font-family: "Chelsea Market";
   src: url("fonts/ChelseaMarket-Regular.ttf");
@@ -13,6 +11,7 @@
 .top-nav {
   background-color: #50b189;
   display: flex;
+  flex-wrap: wrap;
   font-family: 'Chelsea Market', cursive;
   padding: 5px;
   vertical-align: middle;
