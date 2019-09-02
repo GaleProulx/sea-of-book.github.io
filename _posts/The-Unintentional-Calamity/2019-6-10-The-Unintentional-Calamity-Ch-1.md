@@ -13,9 +13,9 @@ The only sound that could be heard was Chelsen’s pen scribbling on his leather
 
 The moon floated across the sky as Chelsen kept moving from one comfortable moss patch to the next, noting landmarks as he went. It was getting close to dawn when Chelsen closed his map, making the trek back to his house.
 
-Finding his house was never a problem. Even on the darkest nights Chelsen could easily walk straight back to his house without fail. It also helped that Chelsen’s father was known for his monolithic snores that always broke the silence that surrounded most of the town of Iris. Chelsen was almost sure that the center of town, or The Circle of Dreams, would most surely wake up if Mith wasn’t rocking them asleep with his quaking snores.
+Finding his house was never a problem. Even on the darkest nights Chelsen could easily walk straight back to his house following the echos of his father's monolithic snores that always broke the silence that surrounded most of the town of Iris. Chelsen was almost sure that the center of town, or The Circle of Dreams, would most surely wake up if Mith wasn’t rocking them asleep with his quaking snores.
 
-Chelsen whipped the door open far too tired to care that he might accidentally wake up his father, assuming that were possible. Flopping onto his bed, Chelsen too fell into a rhythmic, although much quieter, snore.
+Chelsen whipped the door open far too tired to care that he might accidentally wake up his father (assuming that were possible). Flopping onto his bed, Chelsen too fell into a rhythmic, although much quieter, snore.
 
 ***
 
