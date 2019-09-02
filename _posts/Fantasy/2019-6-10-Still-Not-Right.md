@@ -42,7 +42,9 @@ Returning to the front door, I look at the note again. It’s odd that they requ
 Later that night I start preparing for the trip. Brokebank Park is a thirty-minute ride from the Paranomoly office, so I will have to leave early. I collect my trusty black notebook with white ghosts drawn on the front. My tape recorder fits snugly into the front pocket of my leather messenger bag. Within thirty minutes I’m packed, ready for tomorrows excursion.
 
 Lying in bed I keep going through how I will casually stroll up to the scrape yard and walk the perimeter looking for any ghostly activities with my tape recorder in hand. Slowly I drift off into a deep sleep without a single dream to remember in the morning.
-________________________________________
+
+---
+
 Jessy kicked the bottom of my bed jolting me awake. My phone is sitting on my nightstand completely silent. I forgot to set my alarm, again. “You weren’t going to wake up, were you?” It is almost tradition for Jessy to wake me up for work (except the days Jessy just didn’t feel like waking me up) as I am chronically bad at getting myself up. Guess all that has to change now that we aren’t working together any more.
 
 Since I woke up twenty minutes late, I find myself picking out shoes while eating cereal and putting on clothes. It’s amazing how much one person can do when they can potentially be late to work. Ten minutes pass as I launch myself out of the door and into my car, pushing hard on the gas. Just when I think I’m going to be late I pull into the parking lot with one minute to spare. Dashing out of the car and up the stairs, I jump into my desk chair and look at the clock. It reads 9:01AM. No one else is in the office, as usual. I’m always the first one here. Whenever I arrive before someone else, I feel like I’m late. To coax my anxiety, I always try to make sure I’m the first one in the office so my boss can never pull of the “you’re late” comment.
