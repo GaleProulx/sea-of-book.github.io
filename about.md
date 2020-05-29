@@ -12,7 +12,7 @@ Onwards to the next question!
 
 # What is this website?
 
-As mentioned before, you will be find creative work in various genres as well as pieces still being worked on, such as my book The Unintentional Calamity (compendium found [here](galeproulx.gitbook.io/the-unintentional-calamity)).
+As mentioned before, you will be find creative work in various genres as well as pieces still being worked on, such as my book The Unintentional Calamity (compendium found [here](https://galeproulx.gitbook.io/the-unintentional-calamity)).
 
 If you are referring to the name of the website, there is a funny story behind it. I decided to make this website on a whim and I asked my friend what I should name it. He said I had to make the website name a pun: no other rules. We compromised on "Sea of Book" as a silly name for what is essentially a book (or collection) of my creative fiction writing. Yes, the grammar of the website title is purposefully atrocious.
 
