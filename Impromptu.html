@@ -1,0 +1,31 @@
+---
+layout: default
+title: Seo of Book Impromptu
+---
+
+<h1 class="page-header">Impromptu Stories</h1>
+
+<h2><i>The Impromptu section of Sea of Book is a challenge where the author has one hour to write a story based off of three random words. They get no time beforehand to prep and must make a (greater than) 500 word story that somehow incorporates the idea of each word.</i></h2>
+
+
+{% for post in site.posts %}
+  {% if post.categories contains 'Impromptu' %}
+    <article class="post-preview">
+
+      <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+      <div class="horizontal-body">
+        {{ post.excerpt }}
+      </div>
+
+      <div class="post-footer">
+        <div class="category-container">
+          {% for category in post.categories %}
+            <div class="category">{{ category }}</div>
+          {% endfor %}
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </div>
+    </article>
+  {% endif %}
+{% endfor %}
