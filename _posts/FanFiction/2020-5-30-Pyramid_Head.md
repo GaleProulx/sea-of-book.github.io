@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pyramid Head
+title: Dead by Daylight - Pyramid Head
 author: Gale Proulx
 published: true
 categories: FanFiction
