@@ -3,7 +3,8 @@ layout: post
 title: Dead by Daylight - Nea Karlsson
 author: Gale Proulx
 published: true
-categories: FanFiction
+categories:
+  - Fan Fiction
 ---
 
 The ominous drone of the Entity continued as I was lifted out of the arena. The pain from the talon piercing my body had subsided as everything faded into darkness. There was nothing left except the void. I am never sure how much time passes in this space. It's different from the arena where you are aware of every excruciating minute. You know when you'll have a burst of energy to sprint from a killer. You'll know when a generator's repairs will be complete. It's just an innate sense of time that follows every survivor. Yet, when you exit the arena into the void everything is lost.

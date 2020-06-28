@@ -3,7 +3,8 @@ layout: post
 title: Dead by Daylight - Pyramid Head
 author: Gale Proulx
 published: true
-categories: FanFiction
+categories:
+  - Fan Fiction
 ---
 
 Normally someone who exists to terrify you would look scary. Mangled face, psychotic composure, scissors for hands, something! I guess this villain missed the memo. He (I think he) decided their persona should be personified by a cone on their head. More specifically, a traffic cone, painted brown, and flattened on four sides to look like a pyramid. Worst costume ever. Even their weapon is dumb, portraying more of a drastically over sized butter-knife look than a giant butcher-knife. We call him Pyramid Head, because that is what he looks like.
