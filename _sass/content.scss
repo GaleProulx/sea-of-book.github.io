@@ -65,6 +65,17 @@ body {
           text-align: center;
           transition: 0.2s;
           vertical-align: text-bottom;
+
+          a {
+            color: #207251;
+            text-decoration: none;
+            transition: 0.2s;
+          }
+
+          a:hover {
+            color: #5078b1;
+            transition: 0.2s;
+          }
         }
 
         .read-more {

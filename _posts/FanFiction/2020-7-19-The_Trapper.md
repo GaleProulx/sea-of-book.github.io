@@ -1,0 +1,14 @@
+---
+layout: post
+title: Dead by Daylight - The Trapper
+author: Gale Proulx
+published: false
+categories:
+  - Fan Fiction
+---
+
+Flashlight clicks could be heard from the cornfield followed by a voice. "Wait! Don't give up! I'm sure you'll get me you baby Trapper." Corn ruffled around as Nea chased the killer around the arena. The view from the hill was definitely the best in the whole arena. It made sense why The Trapper would sit up here searching for survivors. Oh how the tables had turned.
+
+For the next five minutes Nea circled the trapper in what she liked to call a "jungle gym". It was the ideal place to run from a killer. The poorly built wooden walls provided protection from being hit while also providing some holes to see where the killer was on the other side. The windows conveniently built into these walls were very easy to vault, meanwhile the killer would take forever to shove one leg through the window followed by the other leg. For The Trapper, we also had the advantage of seeing his red stain. For some odd reason his face emanated a red light in front of him that very conveniently told us where the killer was walking.
+
+By the time I got up to work on a generator the killer was walking away from Nea who was persistently annoying him with her flashlight. It appeared he had enough as he maddeningly swung his blade at nothing. Lucky for me, there was a generator sitting right next to the hill.
