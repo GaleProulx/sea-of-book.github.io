@@ -21,7 +21,7 @@ Thrusting the lid of my chest open, I grabbed the only thing it contained: a fla
 
 "Don't worry about it, you're still new. Just keep practicing, you'll eventually get it." It was disturbing how normal the sentence was. We could have been talking about anything in the real world. Baseball, tennis, football, just keep practicing and you'll eventually get it. If only we were talking about sports and not a very real killer who very much wanted to hurt us.
 
-Two more growls occurred almost simultaneously. A woman who appeared to be a cowgirl and another with a beanie (no one wore a beanie here) dropped down. Both of them ran over to their newly arrived chests. The woman with the beanie grabbed a flashlight, a new bulb for the flashlight, and some extra batteries. She meant business. The cowgirl grabbed a med kit.
+Two more growls occurred almost simultaneously. A woman who appeared to be a medic and another with a beanie (no one wore a beanie here) dropped down. Both of them ran over to their newly arrived chests. The woman with the beanie grabbed a flashlight, a new bulb for the flashlight, and some extra batteries. She meant business. The cowgirl grabbed a med kit.
 
 Before we had the chance to say anything else the heartbeat started. The new killer was chosen, and we were ready to start the trial. I turned my head to look in the distance, distinctly seeing a burly man holding a scrap metal sword and bear trap. "Oh, I can't wait for this one," beanie woman exclaimed.
 
