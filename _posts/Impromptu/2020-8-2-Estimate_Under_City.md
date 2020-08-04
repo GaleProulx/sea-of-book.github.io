@@ -54,3 +54,9 @@ Treme frowned. This was not in his plan. "You won't kill me!" He shouted as loud
 Vious gave him a dirty look and paused. "Fine! But I don't want to see your face ever again!" Treme had managed to climb to the next floor.
 
 "Sounds good to me." Treme responded as he continued carefully climbing to the top of the dam and outside the city forever in exile.
+
+---
+
+_The Impromptu section of Sea of Book is a challenge where the author has one hour to write a story based off of three random words. They get no time beforehand to prep and must make a (greater than) 500 word story that somehow incorporates the idea of each word._
+
+_This particular challenge used these three randomly generated words: exile, trouble, and scheme._
