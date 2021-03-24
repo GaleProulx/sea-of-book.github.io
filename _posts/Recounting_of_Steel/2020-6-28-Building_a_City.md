@@ -7,62 +7,96 @@ categories:
   - Recounting of Steel
 ---
 
-Fade gazed out the window into the distant, red-hued fog masking the outside world. Her finger silently traced the imperfections of the metallic desk roughed up by countless students before her. So many names desperately scrapped into eternal existence more out of desperation than anything else.
+The energy of a bunch of sleepy teenagers filled the air of the poorly lit classroom. Wind howled as it crashed upon the metal walls making the small building occasionally shutter stirring even the most tired students awake.
 
-"Alrighty, who is ready for class today?" Behind the old professor was a metallic silver plate spanning most of the back wall. "Great response, I see most of you ready to learn history," he joked. Not single student was even attempting to look engaged. We always started out this way. Pretending like we weren't excited for his next lesson. "Okay, before we start just get it out. What are you thinking? Say anything." His burly white mustache bounced in an animated way when he talked almost as if it was alive. The mustache even looked like it had a breathing rhythm that matched the professors heavy snorting which always felt loud enough to shake the old tin box they called a classroom.
+Fade was not one of those tired students. In fact, she was almost out of breath. It had only been two minutes before class when she exited the train station. The fact that she made it before the teacher started talking non-stop was a miracle.
 
-"It's 8AM and we are in a classroom to learn history... why does this have to happen?" A girl, wearing more copper accent in her jewelry than the walls around her, muttered the question to herself more than to the professor.
+Her feet sat upon the ancient wooden desk with the hard heel of her boot slowly grinding away the already scratched surface. She couldn't sit still. After all that running her feet needed to keep moving. 
 
-"Wow, I really thought this would be about something completely different. Maybe drama, or something I did wrong. Guess I am not one to question it. Let's go with the question! Why?" The professor picked up a marker and drew the word "why" with big, sharp corners. "Hope the studious one, I couldn't have asked a better question. Does anybody know the answer? Keep in mind I'm implying there is an answer." He put one hand behind his back as he searched for someone to raise a hand.
+The window next to her showed the red-hued sky promising that the sun would once again rise to fill the room with light. The tops of some mountains were barely visible from the window when a cloud wasn't passing by. She longed to explore 4000 feet down to the great valley below where supposed terrible beasts lay waiting to strike anyone stupid enough to clamber down to the ground. Of course, that was the tale. If her suspicions were correct, all that fear mongering is for a completely different purpose than protecting the "poor unintelligent people" from their own curiosity.
 
-"Tradition," a small boy squeaked up front. The boy was indeed a student despite being younger than anyone else in the room. Somehow, he always seemed to have the answers. Most students believed that little boy was actually an old man trapped inside a young persons body.
+"Attention class!" professor Fog commanded up at the front of the room. He had already uncapped a marker ready to write on the metallic board. Not a single student moved. Fog sighed while waving his hands emphatically. "Alright, I get it. Folks your age aren't supposed to be up this early. Let's get up! You know what to do."
 
-"Haha, Gil you always seem to have the answers, don't you?" The professor added "tradition" to the metallic plate. "Come on people, some of you must have something to say?" No one moved. "Okay fine, you got me. Gil is right, tradition is the answer. Us adults were taught this same material and we feel the need to pass it on to you. Rather than follow other teachers' style, I let you explore the history you are interested in. I would go on about how this stuff is actually more important than you think, but I guess trying to manipulate your motives will only make you hate the subject more. Let's move on then and explore. Group up!"
+Slowly, like zombies, each student rose from their desk and started dragging it towards the edges of room leaving a nice clearing. Professor Fog always liked to have a stage. Anyone accidentally walking into the classroom could easily be forgiven for thinking they had walked into a theater class. Somehow, through the appreciation of most students, it was a history class. Every part of history taught through role-playing rather than dry text on an even drier page.
 
-As it happened every single class, students moved the desks one next to another forming long benches surrounding the professors desk. Naturally the movement and heavy lifting made some students much more alert. By the time all the desks were in a "U" formation ready to hear story-telling, the professor had erased the giant "why" and sketched a basic diagram of the cities of Steel called "Divisions." A single "X" was placed at the Front Division.
+Fade hardly had to move. Her desk was already in the corner. After saying goodbye to the fantastic view she lazily got up and hopped across the top of each desk to the center. When the scrambling around was finished, each student took their seat.
 
-"How about..." the professor trailed off contemplating who would be his next victim for storytelling. "Fade! I don't think I've ever seen you up here. Please join me."
+"Much appreciated students," Fog yelled over the sound of shuffling as everyone got situated. "Now we can get on to today's lesson. Does anyone remember what we talked about last time?" No one moved. "Really folks?" One student looked like she wanted to raise her hand but resisted the urge. Fog did not notice. "Okay now this is really bumming me out. Are my lessons that unbearable?"
 
-Everyone stared at Fade. No one really knew anything about her. Her parents never accompanied her to or from school. Every day it seemed like she left in a different direction to get home. She was a complete mystery until now, walking up to the spotlight at the front of the classroom.
+As Fog turned his attention to Fade, she pointed at the small student just about ready to burst with the answer. He turned around and laughed. "Gil! Sorry, I didn't see you there. Please do tell us what we did."
 
-"Picture that you are here." The professor pointed toward the "X" on the metallic plate. "There is only one difference: you are actually standing in that very spot right when the First Division is about to be completed over five hundred years ago. What do you see as you gaze out to that First Division?" His mustache moved ecstatically as his breathing became slightly more frequent.
+With all the force in her lungs she spat out at light speed, "we talked about some of the first construction of the Great Gate and the five pillars and all the materials used to hold the structure completely still so it wouldn't topple over like all the great engineers could have sworn-" Gil took a quick breath to keep going, "was going to happen and how the council decided to go ahead with the plans and how nothing terrible has happened ever since!" The stupidest grin appeared on her face. She was by far the youngest in the class, about twelve, so anytime she could outdo her peers was a fantastic prospect for her.
 
-"I don't know. I imagine the bridge hasn't been built yet. I'm just looking at a mostly flat plate supported by two massive pillars. Only gondolas connect the Front Division to the First." Fade looked around only to see everyone intently staring at her. It appeared the class was much more interested in her than the story. She never talked this much.
+Most of the class stayed unphased by the usual burst of energy that is Gil. Professor Fog laughed yet again matching her energy. "See class," Fog continued, "there is such a thing as enthusiasm. Don't get old and forgot that!" Playing on their fears, most students became more attentive almost immediately. "Now who would like to explore history today?"
 
-"Excellent, excellent, excellent!" The professor lazily sat on his desk. "What would you like to explore?" His hand waived to the crude drawing.
+Fade's hands started to sweat. While she did enjoy class, she hated the spotlight. Somehow, role-playing in front of the whole class was not a very enticing prospect.
 
-Fade took a moment. What did she want to find out? Most of this part of history was concerned with expansion. Everything had to be big to accommodate a growing population, hence why the First of the Five Divisions was by far the biggest to be built. Now that she thought about it, she didn't know what else was different about the First Division to every other one. "I want to know what is different. Why are the pillars so much larger?"
+"Anyone want to volunteer?" Fog asked. Gil raised her hand with her usual levels of freak enthusiasm. Fog noticed. "Sorry Gil, someone else needs to come up on stage every once in a while."
 
-The professor shot up from the desk, grabbed a marker, and dashed to the metallic back-plate. "Interesting question indeed? Would you like to transport to the side of the pillar?"
+When no one else volunteered Fog took out a piece of paper from the front pocket of his collared shirt. A twenty sided dice was retrieved from his pants pocket. Rolling the dice onto the floor across the stage, the number on top showed 15. "Let me see now," Fog grumbled to himself. "Ah, Gil's number. Sorry! Let's try again."
 
-Fade turned her head slightly sideways with screwed up eyebrows. "How would I stand on the side of the pillar?"
+Gil looked absolutely destroyed from the second rejection in a row. Fade would have felt bad if she wasn't so focused on the second roll. It landed on a 1. Of course. Why wouldn't it land on her number?
 
-Quickly the professor flicked off the cap of the marker. "It seems you have not taken the time to really look at the landscape you live on." The marker started flying across the metallic board drawing the small details of the massive supporting pillar. "Naturally you all know the main purpose of the First Division pillars: keep the city far, far off the ground." Suddenly the bottom of the drawing was filled with a rugged landscape. "You see, after the Front Division was built, our civilization realized how hard it was to just defend one gate from the dangers of the world. How would we defend ourselves if we expanded our cliff-side civilization on land? It was simple, stop building on land. Make the Front Division a choke-point to the rest of society." In a side view perspective, a small city labeled "Front Division" was placed on the edge of a cliff with the aforementioned gates. Then the city labeled "First Division" was placed in mid air disjointed from the Front Division. Only gondolas connected the two cities. Connecting the First Division to the ground were the two giant pillars.
+Fog muttered to himself as he went down the sheet of paper. Fade already knew her fate. She briefly considered jumping off the desk and straight to the open hatch at the top of the classroom. No one would be able to catch her, although her parents would be quite upset to learn she immediately deserted the classroom because she was called upon in class.
 
-"To answer your first question, those pillars are massive because we simply didn't have the engineering skills to make anything smaller. Creating a city in the sky is no easy feat. The First Division is an example of ancient engineering scaled to massive proportions." Giant buildings that define today's skyline appeared. Anyone who had traveled knew that the First Division was the biggest by far, and was also closest to the ground.
+"Fade!" Fog announced excitedly. "It looks like it is your turn today!" Folding the paper back into his front pocket he grabbed the marker completely forgetting to retrieve the die. Fade looked at the dice desperately hoping she wouldn't trip on it making herself look like an even bigger fool than she felt she was.
 
-"To answer your second question, Fade, you can stand next to these pillars because scaffolding is still attached to these pillars, even today." Tiny platforms appeared next to the pillar. "While these pillars are mostly a combination of concrete and metal, other things were added on such as scientific probes. Thus, these pillars serve a dual purpose of supporting the First Division from collapsing and teaching future engineers the dangers of massive scaling." The professor's marker squeaked as the drawing added the Second Division to scale. Yet another city was drawn floating in the air, but this time much higher and with only one pillar.
+Turning her attention to the front of the classroom, Fog had already drawn a rather detailed depiction of their part of the city. A massive, singular pillar held up an unbelievably wide platform that was the Fifth Division. Tall skyscrapers crowded the middle as buildings slowly shrunk until they reached the edge, where fields and trees bordered the edge of the plate.
 
-Class continued as the mist outside turned from red-hued to white. Eventually the bell rang dismissing class and interrupting a very interesting story the professor was telling about the collapse of one of the first skyscrapers ever built.
+"Does this look familiar?" Fog asked with a rather stupid grin.
 
-"Please remember to to put your desks back into position! Also Hope, my student, I still need last weeks assignment from you!" Hope gave the professor a dirty look while he turned to Fade. "Also Fade, please don't leave quite yet. I have to ask you something." Students filed out of the front door as Fade leaned against the back wall, arms crossed.
+Fade took a deep breath. "That's the Fifth Division, where we currently are standing."
 
-"Professor, whatever you think I did wrong I swear I wasn't aware. I have never-" the professor held up his hand silencing Fade. She looked down.
+"Great!" He kept drawing. "Good to know my work is recognizable. Would have killed me if I couldn't draw our own home." The marker flew from building to building, down to the pillar, and back up. "Now tell me when this is," he commanded.
 
-"Relax Fade, I am not here to criticize you." The professor was in the middle of cleaning the metallic board of his massive drawing. "If you would allow it, please let me ask you one question."
+Scanning the board, it was clear he had added some hints. There was only one gondola connecting the Fifth Division to the Fourth Division. It was the only way to travel from one plate to another without an airship. More gondola's had been added within the first decade of the Fifth's Division's opening when the First Division's council realized commute times were detrimentally slow.
 
-Fade closed her eyes taking a deep breath. She really did like this professor. Despite his cliche looks and old-timey accent, he was surprisingly interesting. He just understood students unlike most teachers. "Sure, just make it quick if you can. I have to run to my next class."
+"Fifth Era, obviously," Fade started. Each era was marked by the finished construction of a new division. Their division was the latest completed construction. "Around Year 5?" she asked.
 
-"Of course," he replied. "As I said, it's just one question." He cleared his throat. "What's your hobby?"
+"Ding ding ding!" Fog chanted. He was obviously excited to see something that was close to a right answer. Fade sighed with relief. "Fifth Era, Year 7. You can tell this by the newly constructed scaffolding all across the Fifth Division's pillar."
 
-Fade screwed up her face. She was held back just so the professor could ask her what her hobby was? Maybe he was didn't get young people. This conversation was starting to make Fade uncomfortable. "Seriously? Reading, I guess?"
+New scaffolding? Fade's face was riddled with confusion. Once pillar's were constructed, they never needed repairs. The combination of materials was impossibly strong. "What was with the scaffolding?" Fade asked. "I thought main construction was done once the Fifth Era started..."
 
-The professor took out a notebook and a pen. "Are you sure? That seems pretty generic, especially for someone like you." He started scribbling notes.
+Classmates started muttering to each other with curiosity. Fog had grabbed their attention, and he knew it. The implications of his drawing were heresy. A First Division council member would have a heart attack at the implication that construction wasn't completed at the beginning of an era.
 
-Fade started lifting up her backpack to make a quick escape if need be. The window behind her was half open which would make for one easy leap to escape. Alternatively, the top hatch of the classroom was also open for some reason. The only way to easily reach it was by climbing the ladder outside. Luckily, Fade could easily take a jumping step off a desk and pull herself up through the hole with little difficulty. Hopefully that wouldn't be necessary. Fade brought her gaze back to the professor who was looking down at his notebook madly scribbling away. "Sorry if you don't like the response. I really do enjoy reading." It wasn't a complete lie. Fade did enjoy reading, but it wasn't her favorite hobby. She also didn't read fiction, but rather blueprints. Despite all these caveats, it was still technically true! Besides, she shouldn't have to justify herself for such a bizarre and creepy question.
+"I cannot confirm nor deny if the construction was done," Fog continued. "All I can say for certain is that scaffolding was on the pillar. What would you like to do?"
 
-"Fair enough. I'm disappointed, I really thought you would be different." He started standing up and approaching Fade. So many red flags went off in her head. She did not want to get close to this pervert. She knew exactly what his "deal" was after all. "Mind if I close that window? It has started raining," he pointed out.
+"Let's get closer," Fade requested. Curiosity took over her anxiety. This lesson, like so many often did, led her to an unexpected place.
 
-Sure enough raindrops appeared on the window and on the ground below the top hatch revealed the sky. Fade relaxed and moved away from the open window. He was still weird, but she was really hoping it was just a socially awkward old man and not something much darker. Regardless, she wasn't taking any more chances being alone with him. "Is that all?" Her hand was already on the front door.
+Another pillar appeared on the metal board as the marker squeaked away in Fog's hand. This time it was a close up image. Graffiti covered the pillar, various small cracks were distributed throughout giving the seven year old pillar the look of a five hundred year old pillar. It wasn't what Fade was expecting at all.
 
-"Yes yes, you may go. I apologize for keeping you so long. Have a nice day Fade. Please stay safe." He struggled to close the rusted window as Fade slipped through the front door and put on her rain jacket. The way he struggled to close that window, hopefully Fade could fight him off if he ever did something disturbing. Letting herself have a moment to shake off the uncomfortable situation, Fade closed her eyes and let the rain hit her face. _What a way to start the morning?_ she thought. As she walked away from the classroom building she heard a slam of the top hatch but could have sworn she didn't hear anyone open the front door to use the ladder.
+"Why did you draw it like that?" Fade asked.
+
+Fog chuckled. "That is the way it looks. Why would I draw it any differently?"
+
+It made no sense. There was graffiti on the pillar, which was also illegal. The object that held up the city, the literal foundation of society, was supposed to be worshiped. At least, the First Division council stated that it was supposed to be worshiped. Fade was sure the Fifth Division council couldn't care less.
+
+"If we learned last lesson that these pillars were made by an impossibly strong material that defied the expectations of the great engineers who constructed each division of the city of Steel, then why are there cracks? Why is there graffiti?" Fade's mind wandered for a moment before returning back to class. "Are you implying that the last lesson was a lie?"
+
+The tiniest grin was visible on Fog's face. "Under the law of Steel I can never say this city was not built by the most impossibly strong material." He paused as his face focused. "Nor can I imply any deviations of that idea. No one ever said I can't be a fantastic artist drawing a very realistic image of the holy great pillar that stands below our feet."
+
+Before the class knew it, the hour had finished and a red light lit up the sun-bathed room. Unlike the beginning of class, Fade was fraught with curiosity. Her previous anxiety of roll-playing was completely taken over by the strange hints their professor was giving. Why would he imply such contradictory ideas within the span of two lessons?
+
+"Don't forgot your homework!" Fog barked as students started to leave. "Re-familiarize yourselves with the construction of the Fourth Division! We will be reviewing it next class!"
+
+Naturally, since Fade's desk was in the corner she was one of the last ones to shift her desk back to a normal position and grab her tiny bag. Slinging both straps over her shoulders and tying the front strap tight, she stepped out the classroom door one moment too late.
+
+"Fade!" Fog called after her before she could reasonably pretend she didn't hear him. "Can I speak with you?"
+
+Sighing, Fade reluctantly stepped back. "What?"
+
+"It'll be just a moment. I just wanted to ask you a question." He beckoned her over to his desk.
+
+She hated being alone in the same room as a teacher. Although Fog had never been reported by her peers for being a creep, there were far too many accounts of old men hitting on students. Suddenly her hands started getting clammy as she approached his desk.
+
+"Is it okay when I act as the manipulator," he paused really awkwardly almost as if he lost his breath. The creep factor was rising and Fade was not having it. "For the conversation," he finally finished his sentence.
+
+Casually glancing behind her, she saw the rooftop hatch was still open. With a quick jump off a desk she could be out of the room before the man got near her.
+
+"Yeah, sure." Her response was half hearted and completely unsure of whether or not it was the right answer.
+
+For another awkward moment he stared into her eyes. Add yet another level to the creep factor. "Good to know. That will be all." Slowly he moved towards the door of the classroom.
+
+Not wanting to find out whether or not he planned on locking her in the room, Fade laughed nervously and ran ahead and out the door closing it behind her. Wind blasted her face nearly knocking her over. She forgot how harsh the weather was today. Across the field the edge of the Fifth Division plate showed a vast and lush landscape as far as the eye could see.
+
+While she wished she could gaze out into the distance all day, Fade knew it was time to go. Her next class would start soon; she could feel it. Taking out her pocket watch it read 9:03AM. As usual, she had a solid two minutes to get to her next class. Racing across the street she headed straight towards the side of a house ready to scale it and take the most direct route to her next class. 
