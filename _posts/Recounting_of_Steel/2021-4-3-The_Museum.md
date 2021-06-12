@@ -105,7 +105,7 @@ Stealing her gaze away from one of the skyscrapers, Fade saw professor Fog slowl
 
 "Parents," Vious corrected. "We're partners."
 
-"Name's Obli, they them. Nice to meet you," Obli greeted.
+"Name's Obli, they/them. Nice to meet you," Obli greeted.
 
 "My Nini!" Fade added defensively.
 
