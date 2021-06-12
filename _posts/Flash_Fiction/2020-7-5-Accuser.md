@@ -3,7 +3,8 @@ layout: post
 title: Accuser
 author: Gale Proulx
 published: true
-categories: Flash Fiction
+categories: 
+  - Flash Fiction
 ---
 
 Metallic letters _Move Fast to Break_ shined in the rays of the rising sun as Mr. Smith dragged his feet into the fifty story building. Cold air conditioning blasted the businessman as he wearily lifted his finger to touch the elevator button changing its glowing outline from red to green. Fully-fitted business suits with shadows of humans fit inside them shifted around Mr. Smith busy with whatever tasks the morning called for. All the workers were uninterested in who Mr. Smith was or what he did.
