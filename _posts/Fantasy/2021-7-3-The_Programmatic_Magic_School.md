@@ -1,10 +1,10 @@
-```yaml
+---
 layout: post
 title: The Programmatic Magic School
 author: Gale Proulx
 published: true
 categories: Fantasy
-```
+---
 
 The dingy basement looked like something out of a horror movie. A few dirty windows, decaying walls, puddles on the floor, and one overhead light with a chain swinging back and forth casting a creepy shadow. I can't help but think I've made a terrible mistake.
 
