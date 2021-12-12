@@ -87,7 +87,7 @@ It was a completely absurd price. Both of Fade's parents didn't make that much i
 
 "Here you go!" Obli handed all fifteen copper pieces. Looking back at Fade, they winked.
 
-The wink hurt. It wasn't hard to tell even as their daughter that this outing took a lot of saving to make happen. A trip like this was not going to happen again anytime soon.
+The wink hurt. It wasn't hard to tell even as their daughter that this outing took a lot of savings to make happen. A trip like this was not going to happen again anytime soon.
 
 Stepping inside brought the same sense of aw that Fade had just looking at the outside of the building. Chandeliers lit the huge entrance with winding wooden staircases splitting off in all sorts of directions. In the center, between all the staircases sat a giant model of the Fourth Division. Velvet ropes surrounded it to make sure no patron got too close.
 
@@ -159,7 +159,7 @@ A very uncomfortable silence followed them up the slightly less ancient wooden s
 
 "Stop! You aren't allowed here!" a guard shouted from below. The stairs thudded away under what appeared to be multiple guards boots.
 
-By the time the woman who very much looked like she was being chased reached the waiting platform, the gondola was already free floating in the air. The woman shrugged and took the longest lunge Fade had ever seen. Instinctively, both Vious and Obli grabbed her hands tilting the entire carriage backwards with all the weight leaning in one spot.
+By the time the woman who very much looked like she was being chased reached the waiting platform, the gondola was already free floating in the air. The woman shrugged and took the longest lunge Fade had ever seen. Instinctively, both Vious and Obli grabbed her hands tilting the entire carriag with all the weight leaning in one spot.
 
 "What are you doing? Are you out of your mind?" Obli screeched.
 

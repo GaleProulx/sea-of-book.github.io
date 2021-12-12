@@ -25,7 +25,7 @@ Fade hardly had to move. Her desk was already in the corner. After saying goodby
 
 As Fog turned his attention to Fade, she pointed at the small student just about ready to burst with the answer. He turned around and laughed. "Gil! Sorry, I didn't see you there. Please do tell us what we did."
 
-With all the force in her lungs she spat out at light speed, "we talked about some of the first construction of the Great Gate and the five pillars and all the materials used to hold the structure completely still so it wouldn't topple over like all the great engineers could have sworn-" Gil took a quick breath to keep going, "was going to happen and how the council decided to go ahead with the plans and how nothing terrible has happened ever since!" The stupidest grin appeared on her face. She was by far the youngest in the class, about twelve, so anytime she could outdo her peers was a fantastic prospect for her.
+With all the force in her lungs she spat out at light speed, "we talked about some of the first construction of the Great Gate and the five pillars and all the materials used to hold the structure completely still so it wouldn't topple over like all the great engineers could have sworn-" Gil took a quick breath to keep going, "was going to happen and how the Leaders of Steel decided to go ahead with the plans and how nothing terrible has happened ever since!" The stupidest grin appeared on her face. She was by far the youngest in the class, about twelve, so anytime she could outdo her peers was a fantastic prospect for her.
 
 Most of the class stayed unphased by the usual burst of energy that is Gil. Professor Fog laughed yet again matching her energy. "See class," Fog continued, "there is such a thing as enthusiasm. Don't get old and forgot that!" Playing on their fears, most students became more attentive almost immediately. "Now who would like to explore history today?"
 
@@ -57,7 +57,7 @@ Scanning the board, it was clear he had added some hints. There was only one gon
 
 New scaffolding? Fade's face was riddled with confusion. Once pillar's were constructed, they never needed repairs. The combination of materials was impossibly strong. "What was with the scaffolding?" Fade asked. "I thought main construction was done once the Fifth Era started..."
 
-Classmates started muttering to each other with curiosity. Fog had grabbed their attention, and he knew it. The implications of his drawing were heresy. A First Division council member would have a heart attack at the implication that construction wasn't completed at the beginning of an era.
+Classmates started muttering to each other with curiosity. Fog had grabbed their attention, and he knew it. The implications of his drawing were heresy. A Third Division council member would have a heart attack at the implication that construction wasn't completed at the beginning of an era.
 
 "I cannot confirm nor deny if the construction was done," Fog continued. "All I can say for certain is that scaffolding was on the pillar. What would you like to do?"
 
