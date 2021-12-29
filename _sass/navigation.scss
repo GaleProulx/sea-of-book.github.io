@@ -17,7 +17,7 @@
   vertical-align: middle;
 
   .nav-link {
-    background-color: #5a8ac3;
+    background-color: $sea-blue;
     border-radius: 5px;
     color: white;
     font-size: 1.3em;
@@ -33,7 +33,7 @@
   }
 
   .nav-link:hover {
-    background-color: #6397d0;
+    background-color: $sea-light-blue;
     transition: 0.2s;
   }
 
@@ -42,7 +42,7 @@
   }
 
   .title {
-    background-color: #5078b1;
+    background-color: $sea-dark-blue;
     border-radius: 10px;
     color: #e2f7f7;
     padding: 5px;
@@ -57,7 +57,7 @@
 }
 
 .progress-container {
-  background: #16533a;
+  background: $sea-forest-green;
   height: 8px;
   width: 100%;
   top: 0px;
