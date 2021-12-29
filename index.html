@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Sea of Book Latest
+pagination:
+  enabled: true
 ---
 
 <h1 class="page-header">Latest Posts</h1>
 
-{% for post in site.posts limit:5 %}
+{% for post in paginator.posts %}
   <article class="post-preview">
 
     <h2 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
@@ -19,10 +21,15 @@ title: Sea of Book Latest
         {% for category in post.categories %}
           <div class="category"><a href="{{ site.baseurl }}/{{category}}">{{ category }}</a></div>
         {% endfor %}      </div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read Story</a>
     </div>  </article>
 {% endfor %}
 
-<article class="post-preview">
-    <h2 class="title"><a href="{{ site.baseurl }}/library">See All Posts</a><h2>
-</article>
+{% if paginator.total_pages > 1 %}
+  {% if paginator.previous_page %}
+    <a class="pagination-link" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a class="pagination-link" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% endif %}
+{% endif %}

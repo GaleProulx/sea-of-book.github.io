@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(#27956a, #22835d);
+  background: linear-gradient($background-top-gradient, $background-bottom-gradient);
   font-family: Helvetica, Arial, sans-serif;
   height: 100%;
   width: 100%;
@@ -21,7 +21,7 @@ body {
 
   .content-container {
     align-self: center;
-    background-color: #50b189;
+    background-color: $sea-green;
     border-radius: 2px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     flex: 2;
@@ -33,13 +33,13 @@ body {
     padding: 10px;
 
     .page-header {
-      border-bottom: solid 4px #16533a;
+      border-bottom: solid 4px $sea-forest-green;
       font-family: 'Chelsea Market', cursive;
       margin: 5px;
     }
 
     .post-preview {
-      background-color: #fff;
+      background-color: $sea-white;
       box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
       margin-bottom: 10px;
       margin-top: 10px;
@@ -55,26 +55,26 @@ body {
         }
 
         .category {
-          background-color: #b9eaeb;
+          background-color: $link-green-background;
           border-radius: 5px;
-          color: #207251;
+          color: $link-green;
           font-weight: bold;
           margin: 5px;
           margin-bottom: 10px;
           padding: 10px 20px 10px 20px;
           text-align: center;
-          transition: 0.2s;
+          transition: $transition-time;
           vertical-align: text-bottom;
 
           a {
-            color: #207251;
+            color: $link-green;
             text-decoration: none;
-            transition: 0.2s;
+            transition: $transition-time;
           }
 
           a:hover {
-            color: #5078b1;
-            transition: 0.2s;
+            color: $link-green-hover;
+            transition: $transition-time;
           }
         }
 
@@ -82,73 +82,75 @@ body {
           margin: 5px;
           margin-bottom: 10px;
           margin-right: -10px;
-          background-color: #efc4db;
+          background-color: $link-red-background;
           border-radius: 5px 0px 0px 5px;
-          color: #207251;
+          color: $link-red;
           font-weight: bold;
           padding: 10px 20px 10px 20px;
           text-decoration: none;
-          transition: 0.2s;
+          transition: $transition-time;
         }
 
         .read-more:hover {
-          color: #50b189;
-          transition: 0.2s;
+          color: $link-red-hover;
+          transition: $transition-time;
         }
       }
 
 
       h1 {
-        border-left: 5px solid #efc4db;
+        border-left: 5px solid $link-red-background;
         padding-left: 5px;
       }
 
       h2 {
-        border-left: 5px solid #efc4db;
+        border-left: 5px solid $link-red-background;
         padding-left: 5px;
       }
 
       .title {
+        background-color: $link-red-background;
         margin: 0px;
         margin-top: -10px;
         margin-left: -10px;
         margin-right: -10px;
         padding-left: 0px;
+        padding: 8px;
 
         a {
-          background-color: #efc4db;
-          color: black;
+          color: $sea-black;
           display: block;
-          padding: 8px;
           text-decoration: none;
-          transition: 0.2s;
+          transition: $transition-time;
         }
 
         a:hover {
-          color: #207251;
-          transition: 0.2s;
+          color: $link-red-hover;
+          transition: $transition-time;
         }
       }
 
       .subtitle {
-        background-color: #efc4db;
-        color: black;
+        background-color: $link-red-background;
+        color: $sea-black;
         display: block;
         padding: 3px;
         padding-left: 15px;
+        padding-bottom: 6px;
         margin: 0px;
         margin-top: 0px;
         margin-left: -10px;
         margin-right: -10px;
         text-decoration: none;
-        transition: 0.2s;
+        transition: $transition-time;
       }
 
       .category {
-        background-color: #f8e8f0;
+        background-color: $sea-white;
         border-radius: 5px;
         padding-left: 5px;
         padding-right: 5px;
+        padding-top: 5px;
       }
 
       .category:empty {
@@ -171,20 +173,39 @@ body {
           display: block;
           padding: 8px;
           text-decoration: none;
-          transition: 0.2s;
+          transition: $transition-time;
         }
 
         a:hover {
           color: #207251;
-          transition: 0.2s;
+          transition: $transition-time;
         }
       }
+    }
+
+    .pagination-link {
+      background-color: $link-red-background;
+      border-radius: 5px;
+      color: $link-red;
+      display: block;
+      font-size: 1.2em;
+      font-weight: bold;
+      margin-top: 10px;
+      padding: 8px;
+      text-align: center;
+      text-decoration: none;
+      transition: $transition-time;
+    }
+
+    .pagination-link:hover {
+      color: $link-red-hover;
+      transition: $transition-time;
     }
   }
 
   .side-nav {
     align-self: stretch;
-    background-color: #50b189;
+    background-color: $sea-green;
     border-radius: 2px;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     flex: 1;
@@ -202,7 +223,7 @@ body {
       padding: 5px;
 
       .section-header {
-        background-color: #99d0b7;
+        background-color: $sidebar-header-background;
         display: block;
         font-family: 'Chelsea Market', cursive;
         margin: 0px;
@@ -215,7 +236,7 @@ body {
       }
 
       .section-button {
-        background-color: #99d0b7;
+        background-color: $sidebar-header-background;
         display: block;
         font-family: 'Chelsea Market', cursive;
         margin: 0px;
@@ -231,13 +252,13 @@ body {
           display: block;
           text-decoration: none;
           transition: color 0.3s;
-          transition: 0.2s;
+          transition: $transition-time;
         }
 
         a:hover {
           color: #AF874E;
           transition: color 0.3s;
-          transition: 0.2s;
+          transition: $transition-time;
           filter: invert(100%);
         }
 
@@ -263,9 +284,9 @@ body {
         justify-content: space-around;
 
         a {
-          background-color: #70be9c;
+          background-color: $sidebar-link-background;
           border-radius: 5px;
-          color: #394c7e;
+          color: $link-blue;
           display: block;
           font-size: 1.4em;
           font-weight: bold;
@@ -277,12 +298,12 @@ body {
           padding-right: 10px;
           text-decoration: none;
           text-align: center;
-          transition: 0.2s;
+          transition: $transition-time;
         }
 
         a:hover {
-          color: #5078b1;
-          transition: 0.2s;
+          color: $link-blue-hover;
+          transition: $transition-time;
         }
       }
     }
