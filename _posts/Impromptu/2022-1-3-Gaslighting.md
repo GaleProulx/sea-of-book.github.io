@@ -1,11 +1,11 @@
-```yaml
+---
 layout: post
 title: Gaslighting
 author: Gale Proulx
-published: false
+published: true
 categories:
   - Impromptu
-```
+---
 
 **The One No One Believed**
 
