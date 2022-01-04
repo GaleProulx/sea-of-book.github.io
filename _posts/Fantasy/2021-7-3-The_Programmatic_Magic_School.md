@@ -1,10 +1,10 @@
----
+```yaml
 layout: post
 title: The Programmatic Magic School
 author: Gale Proulx
 published: true
 categories: Fantasy
----
+```
 
 The dingy basement looked like something out of a horror movie. A few dirty windows, decaying walls, puddles on the floor, and one overhead light with a chain swinging back and forth casting a creepy shadow. I can't help but think I've made a terrible mistake.
 
@@ -24,7 +24,7 @@ My cheeks immediately blush and I can feel it. Shit. Let's try to act cool. "The
 
 "Not that I know of..." I trail off as as my new best friend loses obvious interest and walks to the other side of the room.
 
-From up above, a giant voice roars above us shouting, "hello new students!" Almost as if the teacher had rehearsed their entrance, he runs down the steps, flips his briefcase open which slides out folding legs, tosses that briefcase (which now looks like a chair?) into the air, jumps after the briefcase, and lands on it holding onto a cup of tee that somehow sits unspilled in his hand. "Good evening. My name is Dr. Gray. That is G-R-A-Y and if any of you pronounce it with an E I will personally escort you off this planet." The joke elicits no response. Everyone is a little bit shocked mostly by the fact that someone with a PhD asked a bunch of college graduates to meet him down in a basement and is acting like this couldn't be more normal. "No? Nothing? Okay, fine. I guess I deserve this one." He presses a button on the side of his briefcase-chair causing  the passcode lock to go from reading "+000" to "-001". "Welcome to the Programmatic Magic School!" he announces with much enthusiasm. "Here I hope to show you how humanities newfound understanding of artificial intelligence has helped unlock capabilities of the brain beyond the understanding of neuroscience."
+From up above, a giant voice roars above us shouting, "hello new students!" Almost as if the teacher had rehearsed their entrance, he runs down the steps, flips his briefcase open which slides out folding legs, tosses that briefcase (which now looks like a chair?) into the air, jumps after the briefcase, and lands on it holding onto a cup of tee that somehow sits unspilled in his hand. "Good evening. My name is Dr. Gray. That is G-R-A-Y and if any of you pronounce it with an E I will personally escort you off this planet." The joke elicits no response. Everyone is a little bit shocked mostly by the fact that someone with a PhD asked a bunch of college graduates to meet him down in a basement and is acting like this couldn't be more normal. "No? Nothing? Okay, fine. I guess I deserve this one." He presses a button on the side of his briefcase-chair causing the passcode lock to go from reading "+000" to "-001". "Welcome to the Programmatic Magic School!" he announces with much enthusiasm. "Here I hope to show you how humanities newfound understanding of artificial intelligence has helped unlock capabilities of the brain beyond the understanding of neuroscience."
 
 "Wait, this isn't a comedy show?" asks one student standing between what is obviously a couple of their friends.
 
@@ -40,7 +40,7 @@ Other students start to follow until it's just Tomomi and myself left. I start t
 
 Tomomi takes a few moments to think. Choosing their words carefully they respond, "while I do find your theories outlandish I don't see any reason why your unpublished work can't find grounding in academia."
 
-Well shit, I didn't know there was homework we had to do. How the hell did Tomomi find this generic ass name of a professor's work? If I googled Dr. Gray there would have to be at least fifty Dr. Gray's who would not be this man.
+Well shit, I didn't know there was homework we had to do. How the hell did Tomomi find this generic ass name of a professor's work? If I Googled Dr. Gray there would have to be at least fifty Dr. Gray's who would not be this man.
 
 Dr. Gray's eyebrows raise substantially. "I am surprised anyone under the age of 30 has looked into my research," he says. "You must have gone to Oak Harbor Community College, right?" Tomomi nods. "I see," he trails off as if this all makes perfect sense before turning to face me. "And why are you here?"
 
@@ -64,7 +64,7 @@ To put it nicely, the place is an absolute mess. The man obviously does his rese
 
 "What exactly is this 'fascinating phenomenon' anyways?" I ask realizing how much I don't know I've got myself into.
 
-Unexpectedly, Tomomi answers the question. "Programmatic Magic is a theory that the human brain can be mapped and manipulated in predictable ways. If someone is able to achieve mastery of their thoughts, they can achieve unexpected things." They look over at  Dr. Gray for confirmation.
+Unexpectedly, Tomomi answers the question. "Programmatic Magic is a theory that the human brain can be mapped and manipulated in predictable ways. If someone is able to achieve mastery of their thoughts, they can achieve unexpected things." They look over at Dr. Gray for confirmation.
 
 "Quite right. Almost right, that is. Mastery doesn't just achieve unexpected 'things', but can actually produce superhuman phenomenon." Both of them look at my heavily blinking face.
 
@@ -90,7 +90,7 @@ I sigh. "Para. They/them."
 
 Tomomi acts like this makes perfect sense. Apparently I'm the only one out of the loop. "How is this different to a professional athlete?" I ask.
 
-"Alright, one more time," Dr. Gray starts. "A professional athlete trains the body to repeat and memorization a motion. I studied how each muscle feels to be moved, memorized those movements, and call upon those memorizations. I literally took out a notebook, moved my arm, and noted the sensations. I repeated that process with every angle my arm could move. I can produce similar movements to an athlete, but the way I do is completely different. And this is just the beginning! Imagine if I could master more than just movement. What lays beyond that knowledge?"
+"Alright, one more time," Dr. Gray starts. "A professional athlete trains the body to repeat and memorize a specific motion. I studied how each muscle feels to be moved, memorized those movements, and call upon those memorizations. I literally took out a notebook, moved my arm, and noted the sensations. I repeated that process with every angle my arm could move. I can produce similar movements to an athlete, but the way I do is completely different. And this is just the beginning! Imagine if I could master more than just movement. What lays beyond that knowledge?"
 
 I frown. "So when you say magic you don't mean throwing lightning out of my hands?"
 
