@@ -88,5 +88,3 @@ Taking a seat on my bed he sighed. "You know how many people live on this planet
 *Writing Prompt Posted by [u/Angel466](https://www.reddit.com/user/Angel466/) [April 14](https://www.reddit.com/r/WritingPrompts/comments/mqr6in/wp_youre_an_infamous_assassin_whos_done_enough/)*
 
 *[WP] You’re an infamous assassin who's done enough killing. But the day you go to retire, a guy with alabaster skin wearing a dark suit turns up inside your home. All this time, you thought you did it for money. Turns out even Death has field agents and he’s not accepting your resignation.*
-
-
