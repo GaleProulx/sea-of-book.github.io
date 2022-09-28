@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chapter 3 - Manipulators
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories:
   - Recounting of Steel

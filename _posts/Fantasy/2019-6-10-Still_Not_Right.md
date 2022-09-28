@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Still Not Right
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories: Fantasy
 ---

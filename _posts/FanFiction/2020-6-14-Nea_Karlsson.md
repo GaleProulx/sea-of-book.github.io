@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dead by Daylight - Nea Karlsson
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories:
   - Fan Fiction

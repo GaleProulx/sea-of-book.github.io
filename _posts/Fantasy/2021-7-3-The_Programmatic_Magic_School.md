@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Programmatic Magic School
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories: Fantasy
 ---

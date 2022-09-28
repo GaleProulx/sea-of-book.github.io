@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estimate Under City
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories:
   - Impromptu

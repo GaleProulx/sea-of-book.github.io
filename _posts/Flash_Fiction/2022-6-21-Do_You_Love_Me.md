@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Love Me?
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories: 
     - Flash Fiction

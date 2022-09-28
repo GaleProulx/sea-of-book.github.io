@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chapter 1 - Building a City
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories:
   - Recounting of Steel

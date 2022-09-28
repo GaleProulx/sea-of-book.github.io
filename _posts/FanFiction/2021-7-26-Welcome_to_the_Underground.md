@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Gifted - Welcome to the Underground
-author: Gale Proulx
+author: Gale Striker
 published: false
 categories:
 - Fan Fiction

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: So Death Walks Into the Room...
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories: 
     - Flash Fiction

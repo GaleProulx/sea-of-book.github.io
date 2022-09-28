@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To Jump Over The Moon
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories: Impromptu
 ---

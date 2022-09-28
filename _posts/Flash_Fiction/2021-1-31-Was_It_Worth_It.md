@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Was It Worth It?
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories:
   - Flash Fiction

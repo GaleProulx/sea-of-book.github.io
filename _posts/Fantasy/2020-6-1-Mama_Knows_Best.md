@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mama Knows Best
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories: Fantasy
 ---

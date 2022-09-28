@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gaslighting
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories:
   - Impromptu

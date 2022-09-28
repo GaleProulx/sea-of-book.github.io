@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chapter 2 - The Museum
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories:
   - Recounting of Steel

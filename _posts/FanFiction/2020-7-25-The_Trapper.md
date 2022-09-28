@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dead by Daylight - The Trapper
-author: Gale Proulx
+author: Gale Striker
 published: true
 categories:
   - Fan Fiction
