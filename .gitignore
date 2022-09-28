@@ -3,6 +3,7 @@ _site/
 .jekyll
 .jekyll-metadata
 .jekyll-cache/
+.obsidian/
 .bundle
 .sass-cache/
 Gemfile
