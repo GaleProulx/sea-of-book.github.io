@@ -1,3 +1,12 @@
+---
+layout: post
+title: Do You Love Me?
+author: Gale Proulx
+published: true
+categories: 
+    - Flash Fiction
+---
+
 In movies and books the world is always so simple. God do I wish the world could be simple. There's no question as to who is the protagonist and who is the antagonist. When something fucked up happens everyone knows it was fucked up. Why couldn't real life be that way?
 
 Don't think, just focus. Packing my bags would be simple. Most of the things I owned I didn't care about. I was raised to never rely on anything physical in my life to stay consistent; not even parents. As long as I had my memories I could survive.
